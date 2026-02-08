@@ -26,6 +26,7 @@ data/
 *.csv
 *.xlsx
 *.json
+models/
 
 # -----------------------------
 # OS-specific files
