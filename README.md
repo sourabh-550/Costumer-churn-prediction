@@ -95,16 +95,4 @@ The project follows a structured ML workflow:
 
 ---
 
-## 💻 How to Run the Project
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone <your-repo-link>
-cd customer-churn-prediction
-
-pip install -r requirements.txt
-
-streamlit run app.py
-
 
